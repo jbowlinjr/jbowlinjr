@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Power Apps, Power Automate, and Power BI.
 - 💞️ I’m looking to collaborate on relatitive projects.
 - 📫 How to reach me jbowlinjr@gmail.com 
-- 😄 Pronouns: I was boy a man and will continue to provide the world with my knowledge in such things.
+- 😄 Pronouns: I was born a man and will continue to provide the world with my knowledge in such things.
 - ⚡ Fun fact: The first "computer bug" was an actual moth trapped inside of a computer in the late 1940s.
 
 <!---
